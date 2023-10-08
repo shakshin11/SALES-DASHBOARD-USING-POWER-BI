@@ -1,5 +1,6 @@
 # SALES-DASHBOARD-USING-POWER-BI
 SALES DASHBOARD USING POWER BI
+In this Power BI project i learned how to import data, clean and process data, design .
 
 OBJECTIVE-
 
